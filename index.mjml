@@ -1,0 +1,830 @@
+<mjml>
+  <mj-head>
+    <mj-title>HTML рассылка</mj-title>
+    <mj-preview>HTML рассылка</mj-preview>
+    <mj-attributes> </mj-attributes>
+  </mj-head>
+  <mj-body width="600px">
+    <!-- <mj-section background-color="#000000" padding="0 10px">
+      <mj-group>
+        <mj-column width="60%" padding="0">
+          <mj-image
+            align="left"
+            padding="0"
+            padding-top="13px"
+            padding-bottom="20px"
+            width="345px"
+            height="34px"
+            src="https://zavalex174.github.io/selebro-img/logo-header.png" />
+        </mj-column>
+        <mj-column width="40%" padding="0">
+  
+          <mj-button
+            padding="0"
+            padding-top="20px"
+            background-color="#000000"
+            font-size="14px"
+            href="tel:+ 73512201022"
+            >+ 7 (351) 220 10 22</mj-button
+          >
+        </mj-column>
+      </mj-group>
+    </mj-section> -->
+    <mj-wrapper>
+      <mj-section padding="0" background-color="#000000">
+        <mj-column width="50%" padding="0">
+          <mj-text padding="0">
+            <a
+              class="logo-header"
+              href="#"
+              style="
+                padding: 0;
+                margin: 0;
+                max-width: 345px;
+                width: 100%;
+                height: 34px;
+                display: inline-block;
+              ">
+              <img
+                style="
+                  max-width: 345px;
+                  width: 100%;
+                  height: 100%;
+                  display: block;
+                "
+                class="logo-header-img"
+                src="https://zavalex174.github.io/selebro-img/logo-header.png"
+                alt="Логотип Salbero" />
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%" padding="0">
+          <mj-text padding="0">
+            <a
+              style="
+                margin: 0;
+                padding: 0;
+                font-size: 14px;
+                text-decoration: none;
+                color: #ffffff;
+                lihe-height: 17.1px;
+              "
+              class="logo-header"
+              href="tel:+73512201022">
+              + 7 (351) 220 10 22
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper padding="20px 0" background-color="#000000">
+      <mj-section
+        padding="20px 0"
+        background-color="#000000"
+        text-align="center"
+        border-bottom="2px solid #987c3c">
+        <mj-column padding="0">
+          <mj-button
+            width="100%"
+            padding-top="10px"
+            padding-bottom="10px"
+            href="#"
+            padding="0"
+            border="1px solid #e8d6ac"
+            background-color="#000000">
+            Панно
+          </mj-button>
+        </mj-column>
+        <mj-column padding="0">
+          <mj-button
+            width="100%"
+            padding-top="10px"
+            padding-bottom="10px"
+            href="#"
+            padding="0"
+            border="1px solid #e8d6ac"
+            background-color="#000000">
+            Мебель
+          </mj-button>
+        </mj-column>
+        <mj-column padding="0">
+          <mj-button
+            width="100%"
+            padding-top="10px"
+            padding-bottom="10px"
+            href="#"
+            padding="0"
+            border="1px solid #e8d6ac"
+            background-color="#000000">
+            Двери
+          </mj-button>
+        </mj-column>
+        <mj-column padding="0">
+          <mj-button
+            width="100%"
+            padding-top="10px"
+            padding-bottom="10px"
+            href="#"
+            padding="0"
+            border="1px solid #e8d6ac"
+            background-color="#000000">
+            Рейки
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section
+      padding="0"
+      background-url="https://zavalex174.github.io/selebro-img/bgwood.png"
+      background-repeat="no-repeat"
+      background-size="cover">
+      <mj-column width="100%" padding="0">
+        <mj-text
+          padding="0"
+          padding-bottom="20px"
+          align="center"
+          color="#ffffff">
+          <h1>Подоконники и откосы</h1>
+        </mj-text>
+        <mj-image
+          padding="0"
+          src="https://zavalex174.github.io/selebro-img/01.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding="0"
+      padding-top="40px"
+      padding-bottom="40px"
+      background-url="https://zavalex174.github.io/selebro-img/bgwood.png"
+      background-repeat="no-repeat"
+      background-size="cover"
+      padding-left="20px"
+      padding-right="20px">
+      <mj-column padding="0" width="30%" padding-right="5px" padding-left="5px">
+        <mj-text align="center" padding="0">
+          <div class="podokonnik-box">
+            <img
+              alt="Боковой откос S’ALBERO"
+              class="podokonnik-img"
+              src="https://zavalex174.github.io/selebro-img/p01.png" />
+            <h2 class="title-h2">Боковой откос S’ALBERO</h2>
+            <p class="title-p1">1350х280 мм.</p>
+            <p class="title-p2">Скидка -20%</p>
+            <p class="title-p3">9592 ₽</p>
+          </div>
+          <a class="btn-card" href="#">Смотреть все</a>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0" width="30%" padding-right="5px" padding-left="5px">
+        <mj-text align="center" padding="0">
+          <div class="podokonnik-box">
+            <img
+              alt="Боковой откос S’ALBERO"
+              class="podokonnik-img"
+              src="https://zavalex174.github.io/selebro-img/p02.png" />
+            <h2 class="title-h2">Боковой откос S’ALBERO</h2>
+            <p class="title-p1">1350х280 мм.</p>
+            <p class="title-p2">Скидка -20%</p>
+            <p class="title-p3">9592 ₽</p>
+          </div>
+          <a class="btn-card" href="#">Смотреть все</a>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0" width="30%" padding-right="5px" padding-left="5px">
+        <mj-text align="center" padding="0">
+          <div class="podokonnik-box">
+            <img
+              alt="Боковой откос S’ALBERO"
+              class="podokonnik-img"
+              src="https://zavalex174.github.io/selebro-img/p03.png" />
+            <h2 class="title-h2">Боковой откос S’ALBERO</h2>
+            <p class="title-p1">1350х280 мм.</p>
+            <p class="title-p2">Скидка -20%</p>
+            <p class="title-p3">9592 ₽</p>
+          </div>
+          <a class="btn-card" href="#">Смотреть все</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding="0"
+      background-url="https://zavalex174.github.io/selebro-img/bgwood.png"
+      background-repeat="no-repeat"
+      background-size="cover">
+      <mj-column width="560px" padding="0">
+        <mj-text
+          padding="0"
+          padding-bottom="20px"
+          align="center"
+          color="#ffffff">
+          <h2 class="title-rach">Решетки для радиаторов</h2>
+        </mj-text>
+        <mj-image
+          padding="0"
+          width="560px"
+          height="470px"
+          src="https://zavalex174.github.io/selebro-img/02.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding="0"
+      padding-top="50px"
+      padding-bottom="57px"
+      padding-right="10px"
+      padding-left="10px"
+      text-align="center"
+      background-url="https://zavalex174.github.io/selebro-img/bgwood.png">
+      <mj-group>
+        <mj-column padding="0" padding-bottom="50px">
+          <mj-text align="center" padding="0">
+            <div class="radiator-box">
+              <img
+                class="radiator-box-img"
+                alt="Приставная решетка с ХДФ"
+                src="https://zavalex174.github.io/selebro-img/r01.png" />
+              <div class="img-box">
+                <div class="imb-box-wrap imb-box-wrap-three">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rm01g.png"
+                    alt="Дедало" />
+                  <p class="img-litle-title img-litle-title-active">Дедало</p>
+                </div>
+                <div class="imb-box-wrap imb-box-wrap-three">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rm02b.png"
+                    alt="Дамаско" />
+                  <p class="img-litle-title">Дамаско</p>
+                </div>
+                <div class="imb-box-wrap imb-box-wrap-three">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rm03b.png"
+                    alt="Готика" />
+                  <p class="img-litle-title">Готика</p>
+                </div>
+              </div>
+              <h2 class="title-h2 title-h2-rech">Приставная решетка с ХДФ</h2>
+              <!--                    <p class="title-p1">1350х280 мм.</p>-->
+              <p class="title-p2 title-p2-rech">Скидка -20%</p>
+              <p class="title-p3 title-p3-rech">20 231 ₽/м2</p>
+            </div>
+            <a class="btn-card-radiator" href="#">Смотреть все</a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0" padding-bottom="50px">
+          <mj-text align="center" padding="0">
+            <div class="radiator-box">
+              <img
+                class="radiator-box-img"
+                alt="Подвесная решетка с ХДФ"
+                src="https://zavalex174.github.io/selebro-img/r02.png" />
+              <div class="img-box">
+                <div class="imb-box-wrap imb-box-wrap-three">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rm01b.png"
+                    alt="Дедало" />
+                  <p class="img-litle-title">Дедало</p>
+                </div>
+                <div class="imb-box-wrap imb-box-wrap-three">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rm02g.png"
+                    alt="Дамаско" />
+                  <p class="img-litle-title img-litle-title-active">Дамаско</p>
+                </div>
+                <div class="imb-box-wrap imb-box-wrap-three">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rm03b.png"
+                    alt="Готика" />
+                  <p class="img-litle-title">Готика</p>
+                </div>
+              </div>
+              <h2 class="title-h2 title-h2-rech">Подвесная решетка с ХДФ</h2>
+              <!--                    <p class="title-p1">1350х280 мм.</p>-->
+              <p class="title-p2 title-p2-rech">Скидка -20%</p>
+              <p class="title-p3 title-p3-rech">20 231 ₽/м2</p>
+            </div>
+            <a class="btn-card-radiator" href="#">Смотреть все</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section
+      padding="0"
+      padding-top="50px"
+      padding-bottom="57px"
+      padding-right="10px"
+      padding-left="10px"
+      text-align="center"
+      background-url="https://zavalex174.github.io/selebro-img/bgwood.png">
+      <mj-group>
+        <mj-column padding="0" padding-bottom="50px">
+          <mj-text align="center" padding="0">
+            <div class="radiator-box">
+              <img
+                class="radiator-box-img"
+                alt="Встраиваемая решетка с ХДФ"
+                src="https://zavalex174.github.io/selebro-img/r03.png" />
+              <div class="img-box">
+                <div class="imb-box-wrap imb-box-wrap-three">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rm01b.png"
+                    alt="Дедало" />
+                  <p class="img-litle-title">Дедало</p>
+                </div>
+                <div class="imb-box-wrap imb-box-wrap-three">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rm02b.png"
+                    alt="Дамаско" />
+                  <p class="img-litle-title">Дамаско</p>
+                </div>
+                <div class="imb-box-wrap imb-box-wrap-three">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rm03g.png"
+                    alt="Готика" />
+                  <p class="img-litle-title img-litle-title-active">Готика</p>
+                </div>
+              </div>
+              <h2 class="title-h2 title-h2-rech">Встраиваемая решетка с ХДФ</h2>
+              <!--                    <p class="title-p1">1350х280 мм.</p>-->
+              <p class="title-p2 title-p2-rech">Скидка -20%</p>
+              <p class="title-p3 title-p3-rech">20 231 ₽/м2</p>
+            </div>
+            <a class="btn-card-radiator" href="#">Смотреть все</a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0" padding-bottom="50px">
+          <mj-text align="center" padding="0">
+            <div class="radiator-box">
+              <img
+                class="radiator-box-img"
+                alt="Приставная решетка с ламелями"
+                src="https://zavalex174.github.io/selebro-img/r04.png" />
+              <div class="img-box">
+                <div class="imb-box-wrap">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rmVg.png"
+                    alt="Вертикальные" />
+                  <p class="img-litle-title">Вертикальные</p>
+                </div>
+                <div class="imb-box-wrap">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rmHg.png"
+                    alt="Горизонтальные" />
+                  <p class="img-litle-title">Горизонтальные</p>
+                </div>
+              </div>
+              <h2 class="title-h2 title-h2-rech">
+                Приставная решетка с ламелями
+              </h2>
+              <!--                    <p class="title-p1">1350х280 мм.</p>-->
+              <p class="title-p2 title-p2-rech">Скидка -20%</p>
+              <p class="title-p3 title-p3-rech">20 231 ₽/м2</p>
+            </div>
+            <a class="btn-card-radiator" href="#">Смотреть все</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section
+      padding="0"
+      padding-top="50px"
+      padding-bottom="57px"
+      padding-right="10px"
+      padding-left="10px"
+      text-align="center"
+      background-url="https://zavalex174.github.io/selebro-img/bgwood.png">
+      <mj-group>
+        <mj-column padding="0" padding-bottom="50px">
+          <mj-text align="center" padding="0">
+            <div class="radiator-box">
+              <img
+                class="radiator-box-img"
+                alt="Подвесная решетка с ламелями"
+                src="https://zavalex174.github.io/selebro-img/r05.png" />
+              <div class="img-box">
+                <div class="imb-box-wrap">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rmVb.png"
+                    alt="Вертикальные" />
+                  <p class="img-litle-title">Вертикальные</p>
+                </div>
+                <div class="imb-box-wrap">
+                  <img
+                    class="img-litle img-litle-title-active"
+                    src="https://zavalex174.github.io/selebro-img/rmHg.png"
+                    alt="Горизонтальные" />
+                  <p class="img-litle-title img-litle-title-active">
+                    Горизонтальные
+                  </p>
+                </div>
+              </div>
+              <h2 class="title-h2 title-h2-rech">
+                Подвесная решетка с ламелями
+              </h2>
+              <p class="title-p2 title-p2-rech">Скидка -20%</p>
+              <p class="title-p3 title-p3-rech">20 231 ₽/м2</p>
+            </div>
+            <a class="btn-card-radiator" href="#">Смотреть все</a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0" padding-bottom="50px">
+          <mj-text align="center" padding="0">
+            <div class="radiator-box">
+              <img
+                class="radiator-box-img"
+                alt="Встраиваемая решетка с ламелями"
+                src="https://zavalex174.github.io/selebro-img/r06.png" />
+              <div class="img-box">
+                <div class="imb-box-wrap">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rmVg.png"
+                    alt="Вертикальные" />
+                  <p class="img-litle-title img-litle-title-active">
+                    Вертикальные
+                  </p>
+                </div>
+                <div class="imb-box-wrap">
+                  <img
+                    class="img-litle"
+                    src="https://zavalex174.github.io/selebro-img/rmHg.png"
+                    alt="Горизонтальные" />
+                  <p class="img-litle-title">Горизонтальные</p>
+                </div>
+              </div>
+              <h2 class="title-h2 title-h2-rech">
+                Встраиваемая решетка с ламелями
+              </h2>
+              <!--                    <p class="title-p1">1350х280 мм.</p>-->
+              <p class="title-p2 title-p2-rech">Скидка -20%</p>
+              <p class="title-p3 title-p3-rech">20 231 ₽/м2</p>
+            </div>
+            <a class="btn-card-radiator" href="#">Смотреть все</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section
+      padding="0"
+      padding-top="10px"
+      padding-bottom="57px"
+      background-url="https://zavalex174.github.io/selebro-img/bgwood.png">
+      <mj-column width="100%" padding="0">
+        <mj-text padding="0">
+          <h2 class="bolsche">Смотрите больше идей для интерьера на сайте</h2>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="0">
+        <mj-text align="center" padding="15px" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c01.jpg"
+              alt="Уникальные панели" />
+            <div class="card-white">
+              <p class="card-white-p">Уникальные панели</p>
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-text align="center" padding="0" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c02.jpg"
+              alt="Декоративные панно и мозаика" />
+            <div class="card-white">
+              <p class="card-white-p">Декоративные панно и мозаика</p>
+
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-text align="center" padding="0" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c03.jpg"
+              alt="Двери" />
+            <div class="card-white">
+              <p class="card-white-p">Двери</p>
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-text align="center" padding="0" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c04.jpg"
+              alt="Фальшбалки" />
+            <div class="card-white">
+              <p class="card-white-p">Фальшбалки</p>
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-text align="center" padding="0" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c05.jpg"
+              alt="Рейки" />
+            <div class="card-white">
+              <p class="card-white-p">Рейки</p>
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-text align="center" padding="0" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c06.jpg"
+              alt="Подоконники и откосы" />
+            <div class="card-white">
+              <p class="card-white-p">Подоконники и откосы</p>
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-text align="center" padding="0" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c07.jpg"
+              alt="Решетки радиатора" />
+            <div class="card-white">
+              <p class="card-white-p">Решетки радиатора</p>
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-text align="center" padding="0" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c08.jpg"
+              alt="Уникальные панели" />
+            <div class="card-white">
+              <p class="card-white-p">Уникальные панели</p>
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-text align="center" padding="0" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c09.jpg"
+              alt="Зеркала" />
+            <div class="card-white">
+              <p class="card-white-p">Зеркала</p>
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-text align="center" padding="0" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c10.jpg"
+              alt="Мебель" />
+            <div class="card-white">
+              <p class="card-white-p">Мебель</p>
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-text align="center" padding="0" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c11.jpg"
+              alt="Фасады" />
+            <div class="card-white">
+              <p class="card-white-p">Фасады</p>
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-text align="center" padding="0" color="#ffffff">
+          <div class="img-box img-box-bolsche">
+            <img
+              class="img-box-bolsche-image"
+              src="https://zavalex174.github.io/selebro-img/c12.jpg"
+              alt="Картины" />
+            <div class="card-white">
+              <p class="card-white-p">Картины</p>
+              <a class="card-white-a" href="#">Смотреть все</a>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding="0"
+      padding-top="10px"
+      padding-bottom="57px"
+      background-url="https://zavalex174.github.io/selebro-img/bgwood.png"
+      border-bottom="2px solid #987c3c">
+      <mj-column
+        width="470px"
+        padding="0"
+        padding-left="5px"
+        padding-right="5px">
+        <mj-text padding="0" align="center">
+          <div class="visitka-box">
+            <div class="visitka-name">
+              <h2 class="visitka-name-title">Анастасия Капаева</h2>
+              <p class="visitka-name-subtitle">Руководитель отдела S’Albero</p>
+            </div>
+            <div class="visitka-contact">
+              <a href="https://salbero.ru" class="visitka-contact-box">
+                <img
+                  class="visitka-contact-box-img"
+                  alt="Сайт"
+                  src="https://zavalex174.github.io/selebro-img/site.png" />
+                salbero.ru
+              </a>
+              <a href="tel:+79518102691" class="visitka-contact-box">
+                <img
+                  class="visitka-contact-box-img"
+                  alt="Сайт"
+                  src="https://zavalex174.github.io/selebro-img/tel.png" />
+                +7 951 810 26 91
+              </a>
+              <a href="mailto:info@salbero.ru" class="visitka-contact-box">
+                <img
+                  class="visitka-contact-box-img"
+                  alt="Сайт"
+                  src="https://zavalex174.github.io/selebro-img/email.png" />
+                info@salbero.ru
+              </a>
+            </div>
+            <div class="visitka-address">
+              <img
+                class="visitka-address-img"
+                alt="Сайт"
+                src="https://zavalex174.github.io/selebro-img/geomap.png" />
+              <p class="visitka-address-p">
+                г. Челябинск, ул. Чичерина 22, 1 эт.
+                <br />
+                «Мебельный Центр» т: +7 (351) 220-10-22
+              </p>
+            </div>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding="0"
+      padding-top="20px"
+      padding-bottom="20px"
+      background-color="#000000"
+      text-align="center">
+      <mj-column>
+        <mj-text align="center">
+          <nav class="navi">
+            <a class="navi-link" href="#">Цвета</a>
+            <a class="navi-link" href="#">Каталог</a>
+            <a class="navi-link" href="#">Контакты</a>
+          </nav>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding="0"
+      padding-top="20px"
+      padding-bottom="20px"
+      background-color="#000000"
+      text-align="center">
+      <mj-column>
+        <mj-text>
+          <a href="https://salbero.ru">
+            <img
+              alt="Логотип компании Salbero"
+              src="https://zavalex174.github.io/selebro-img/logofooter.png" />
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding="0"
+      padding-top="20px"
+      padding-bottom="20px"
+      background-color="#000000"
+      text-align="center">
+      <mj-column width="206px" padding="0">
+        <mj-text align="center" padding="0">
+          <a href="https://salbero.ru">
+            <img
+              alt="Логотип компании Salbero"
+              src="https://zavalex174.github.io/selebro-img/qr.png" />
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding="0"
+      padding-top="20px"
+      padding-bottom="20px"
+      background-color="#000000"
+      text-align="center">
+      <mj-column width="206px" padding="0">
+        <mj-text align="center" padding="0">
+          <a class="web-site-footer" href="https://salbero.ru"> salbero.ru </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding="0"
+      padding-top="20px"
+      padding-bottom="20px"
+      background-color="#000000"
+      text-align="center">
+      <mj-column>
+        <mj-text align="center" color="#ffffff">
+          <h2 class="footer-social-title">Мы в соц.сетях</h2>
+          <nav class="navi-social">
+            <a class="navi-social-link" href="#">
+              <img
+                class="navi-social-link-img"
+                alt="Телеграмм"
+                src="https://zavalex174.github.io/selebro-img/tg.png" />
+            </a>
+            <a class="navi-social-link" href="#">
+              <img
+                class="navi-social-link-img"
+                alt="Телеграмм"
+                src="https://zavalex174.github.io/selebro-img/vk.png" />
+            </a>
+          </nav>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding="0"
+      padding-top="20px"
+      padding-bottom="20px"
+      background-color="#000000"
+      text-align="center">
+      <mj-column>
+        <mj-text align="center" color="#ffffff">
+          <div class="promo">
+            <p class="promo-white">по промокоду</p>
+            <p class="promo-gold">ОСЕНЬ</p>
+          </div>
+          <p class="promo-sale">Скидки до -20% на комплект</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      padding="0"
+      padding-top="20px"
+      padding-bottom="20px"
+      background-color="#262626"
+      text-align="center">
+      <mj-column>
+        <mj-text align="center" color="#ffffff">
+          <a class="policy" href="#"> политика конфиденциальности </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
